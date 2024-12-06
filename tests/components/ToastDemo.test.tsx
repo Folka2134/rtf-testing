@@ -3,6 +3,6 @@ import ToastDemo from "../../src/components/ToastDemo";
 import { Toaster } from "react-hot-toast";
 import userEvent from "@testing-library/user-event";
 
-describe("ToastDemo", () => {
-  // it('should render a toast', async () => {
-});
+// describe("ToastDemo", () => {
+//   // it('should render a toast', async () => {
+// });
